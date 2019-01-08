@@ -79,7 +79,7 @@ If you need technology help, you may call our IT help desk at 952-358-8181. Even
 
 Students in this course will adhere to the rules of Normandale Community College's Code of Conduct. Such rules prohibit plagiarizing other's work (taking credit for someone else's work or stealing work from the web) and creating a hostile academic environment for students or staff. Refer to your student handbook for the full Student Code of Conduct or see [here](http://catalog.normandale.edu/398.htm ): http://catalog.normandale.edu/398.htm . We will work through how to properly cite material during the semester. Please be aware that the penalty for plagiarism is failure of the assignment, then possibly the course, and possibly dismissal from the College.
 
-For a plagiarism tutorial and how to avoid plagiarism, see [*here*](http://www.lib.usm.edu/legacy/plag/plagiarismtutorial.php) .
+For a plagiarism tutorial and read these two short introductions to avoiding plagirism [one](https://www.indiana.edu/~academy/firstPrinciples/tutorials/task1/index.html) [two](https://www.indiana.edu/~academy/firstPrinciples/overview/shouldDo.html) and take this four-question [quiz](https://www.indiana.edu/~academy/firstPrinciples/tutorials/task1/masteryTest.php) to test your knowledge of plagiarism. 
 
 **Writing Resource-** You are encouraged to use Normandale's Writing Center as you create and rewrite your assignments. It is located in the central hallway between College Services and Fine Arts buildings (the old bookstore) *All* good writers revise their work. Writing tutors can help you at any stage of writing.  
 
@@ -155,33 +155,6 @@ Hunger Solutions has an interactive map with locations of free dining sites, foo
     
 This website can also be a helpful tool to search for food pantries by city.   
 
-**Weekly Schedule - See D2L under Calendar**
-
-How to use the Calendar in D2L
-
-FAQs
-
-1. Where is the Calendar?
-
-It sits on under the "Materials" dropdown menu button.
-
-2. Once I've clicked on it, it shows me a weekly calendar, but I want to see a whole month. What can I do?
-
-Click on the tabs above the date to switch between Day, Week, and Month views. You can also click on the "List" tab for all of the dates in a long list.
-
-3. How do I know when things are due?
-
-Assignments are due when their assignment folders close. Other graded items, such as quizzes, discussions, and responses, show their due date by indicating "availability ends."
-
-4. Can I download this calendar to my calendar?
-
-Yes. Once in the calendar, there is a link "Subscribe." Click on it and follow the directions. Google calendar, Microsoft Outlook, and Apple's calendar are all supported with this feature.
-
-5. Why don't we have a paper or pdf schedule?
-
-D2L creates an automatic calendar for our assignments when I create the assignment folders. Creating a paper copy of the calendar causes confusion. I've also received feedback from past students that a single place to locate material is preferable to a paper/pdf copy and an online copy.
-
-6\. What if there are changes that need to be made, such as the professor decides to push back an assignment to the following week? Changes will be announced in the "News" section, noted in the calendar, and broadcast via Remind.
 
 ![Strengths and Weaknesses](media/image1.png){width="6.216666666666667in" height="2.5297878390201225in"}
 
