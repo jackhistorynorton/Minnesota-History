@@ -29,7 +29,7 @@ By the end of this class, you should be able to do the following core learning o
 
 **Required Resources**
 
-- Peg Meier. _Bring Warm Clothes: Letters and Photos from Minnesota's Past_, Minnesota Historical Society Press (Available on reserve in our library.)
+- Two chapters from Peg Meier. _Bring Warm Clothes: Letters and Photos from Minnesota's Past_, Minnesota Historical Society Press (Available on reserve in our library.)
 
 - Access to high-speed internet connection with web-accessed computer
 -not just a cell phone or tablet. You can use Normandale's computers for this.
@@ -46,14 +46,13 @@ Email: jack.norton [ at ] normandale.edu. Email is the best way to reach me. I r
 
 Office: Fine Arts Building, F 2204 (In the little hallway connecting Science and College Services - red section of [*this map*](http://www.normandale.edu/directory/campus-maps-and-directions/fine-arts) upper right corner)
 
-**Office Hours:** Monday & Wednesday, noon to 1:30 pm. Tuesday and Thursday, 10:30 to noon. Also, by appointment: we can always set up a time to chat 9 a.m. to 6 p.m. by phone or video (skype google+, facetime).
+**Office Hours:** Monday and Wednesday 10-11 am and 2-3 pm. Tuesday and Thursday, 11:30 - noon.  Also, by appointment: we can always set up a time to chat 9 a.m. to 6 p.m. by phone or video (skype google+, facetime).
 
 **Course Policies**
 
-**Attendance- Attendance is required!** I will take attendance every day starting on the second week of class. As an incentive for regular attendance, those students miss no classes will earn a bonus of 4% on their final grade. Missing more than one class will result in a deduction in your final grade.
+**Attendance- Attendance is required!** I will take attendance every day starting on the second week of class. As an incentive for regular attendance, those students who turn in on all their assignment on time and get an A in good citizenship are eligible for a 3% bonus  on their final grade. Missing more than one week of class will result in a deduction in your final grade.
 
-**E-Learning- What you need to know**– *You must use your student email for all emails to me*. The due dates for assignments are nonnegotiable  (see the Calendar in D2L). To succeed in this course you will need to:
-
+**E-Learning- What you need to know**– *You must use your student email for all emails to me*. The due dates for assignments are nonnegotiable  (see the Calendar in D2L). To succeed in this course you will need to:  
 
 - Navigate the Normandale Library website successfully.
 
